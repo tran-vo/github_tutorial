@@ -1,0 +1,4 @@
+test line 1
+test line 2
+The number of words in the file test.txt are: 6
+The number of characters in the file test.txt are: 18

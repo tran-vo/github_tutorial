@@ -1,0 +1,128 @@
+2020-11-04 00:02:32.884 (0x7ffefbd363d0) Debug: New PolkitAgentListener  0x556aa7438000
+2020-11-04 00:02:32.884 (0x7ffefbd363d0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffefbd363e0) for  0x556aa7438000
+2020-11-04 00:02:35.699 (0x7ffdc5197bf0) Warning: Icon theme "elementary" not found.
+2020-11-04 00:02:38.071 (0x7ffe043f9ee0) Warning: Icon theme "elementary" not found.
+2020-11-04 00:02:38.092 (0x7ffe043f9ee0) Debug: systemd: "CanHibernate" = "na"
+2020-11-04 00:02:38.093 (0x7ffe043f9ee0) Warning: dbusGetProperty: QDBusInterface is invalid "org.freedesktop.UPower" "/org/freedesktop/UPower" "org.freedesktop.DBus.Properties" "CanHibernate"
+2020-11-04 00:02:38.094 (0x7ffe043f9ee0) Warning: dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+2020-11-04 00:02:38.101 (0x7ffe043f9ee0) Debug: systemd: "CanSuspend" = "yes"
+2020-11-04 00:02:38.374 (0x7ffc94a34bb0) Debug: systemd: "CanReboot" = "yes"
+2020-11-04 00:02:38.603 (0x7ffc94a34bb0) Debug: systemd: "CanPowerOff" = "yes"
+2020-11-04 00:02:39.487 (0x7ffdc5197bf0) Debug: ()
+2020-11-04 00:02:39.595 (0x7ffdc5197bf0) Debug: WinIdChange 1400008 handle QWidgetWindow(0x55ba0dd427c0, name="LXQtPanel panel1Window") QScreen(0x55ba0daa41c0, name="Virtual1")
+2020-11-04 00:02:39.638 (0x7ffdc5197bf0) Debug: Systray started
+2020-11-04 00:02:40.660 (0x7ffe383a6b00) Warning: Icon theme "elementary" not found.
+2020-11-04 00:02:40.754 (0x7ffff6fd97e0) Warning: Icon theme "elementary" not found.
+2020-11-04 00:02:40.826 (0x7ffff6fd97e0) Debug: BatteryChanged discharging: true chargeLevel: nan actionTime: QTime(Invalid)
+2020-11-04 00:02:40.838 (0x7ffff6fd97e0) Debug: Inhibit got: 24
+2020-11-04 00:02:40.971 (0x7ffff6fd97e0) Debug: Starting idlenesswatcher
+2020-11-04 00:02:41.517 (0x7ffdc5197bf0) Debug: Unknown property margin-button
+2020-11-04 00:02:41.517 (0x7ffdc5197bf0) Debug: Unknown property margin-button
+2020-11-04 00:02:41.517 (0x7ffdc5197bf0) Debug: Unknown property margin-button
+2020-11-05 19:34:22.497 (0x7ffda80ca250) Debug: New PolkitAgentListener  0x55b5dba19c00
+2020-11-05 19:34:22.642 (0x7ffda80ca250) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffda80ca260) for  0x55b5dba19c00
+2020-11-05 19:34:29.244 (0x7fff106e9a20) Warning: Icon theme "elementary" not found.
+2020-11-05 19:34:36.117 (0x7ffe2c89c7a0) Warning: Icon theme "elementary" not found.
+2020-11-05 19:34:36.139 (0x7ffe2c89c7a0) Debug: systemd: "CanHibernate" = "na"
+2020-11-05 19:34:36.140 (0x7ffe2c89c7a0) Warning: dbusGetProperty: QDBusInterface is invalid "org.freedesktop.UPower" "/org/freedesktop/UPower" "org.freedesktop.DBus.Properties" "CanHibernate"
+2020-11-05 19:34:36.141 (0x7ffe2c89c7a0) Warning: dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+2020-11-05 19:34:36.147 (0x7ffe2c89c7a0) Debug: systemd: "CanSuspend" = "yes"
+2020-11-05 19:34:37.184 (0x7ffe19bfb820) Debug: systemd: "CanReboot" = "yes"
+2020-11-05 19:34:38.151 (0x7ffe19bfb820) Debug: systemd: "CanPowerOff" = "yes"
+2020-11-05 19:34:42.209 (0x7fff106e9a20) Debug: ()
+2020-11-05 19:34:42.838 (0x7fff106e9a20) Debug: WinIdChange 1200008 handle QWidgetWindow(0x556e053f0320, name="LXQtPanel panel1Window") QScreen(0x556e051511c0, name="Virtual1")
+2020-11-05 19:34:43.142 (0x7fff106e9a20) Debug: Systray started
+2020-11-05 19:34:43.910 (0x7ffe6703be20) Warning: Icon theme "elementary" not found.
+2020-11-05 19:34:44.546 (0x7ffe47503fe0) Debug: Starting idlenesswatcher
+2020-11-05 19:34:51.074 (0x7fff106e9a20) Debug: Unknown property margin-button
+2020-11-05 19:34:51.075 (0x7fff106e9a20) Debug: Unknown property margin-button
+2020-11-05 19:34:51.075 (0x7fff106e9a20) Debug: Unknown property margin-button
+2020-11-05 20:03:32.242 (0x7fff106e9a20) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
+2020-11-05 20:03:32.450 (0x7fff106e9a20) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
+2020-11-06 00:11:16.375 (0x7fff106e9a20) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
+2020-11-06 00:11:16.577 (0x7fff106e9a20) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
+2020-11-18 20:23:43.851 (0x7ffcacaec6b0) Debug: New PolkitAgentListener  0x55a1bce03e00
+2020-11-18 20:23:43.947 (0x7ffcacaec6b0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffcacaec6c0) for  0x55a1bce03e00
+2020-11-18 20:23:47.149 (0x7ffda6a14330) Warning: Icon theme "elementary" not found.
+2020-11-18 20:23:52.926 (0x7ffffe7db650) Warning: Icon theme "elementary" not found.
+2020-11-18 20:23:52.959 (0x7ffffe7db650) Debug: systemd: "CanHibernate" = "na"
+2020-11-18 20:23:52.959 (0x7ffffe7db650) Warning: dbusGetProperty: QDBusInterface is invalid "org.freedesktop.UPower" "/org/freedesktop/UPower" "org.freedesktop.DBus.Properties" "CanHibernate"
+2020-11-18 20:23:52.960 (0x7ffffe7db650) Warning: dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+2020-11-18 20:23:52.966 (0x7ffffe7db650) Debug: systemd: "CanSuspend" = "yes"
+2020-11-18 20:23:53.113 (0x7ffcb3e23490) Debug: systemd: "CanReboot" = "yes"
+2020-11-18 20:23:53.304 (0x7ffcb3e23490) Debug: systemd: "CanPowerOff" = "yes"
+2020-11-18 20:23:54.303 (0x7ffda6a14330) Debug: ()
+2020-11-18 20:23:54.434 (0x7ffda6a14330) Debug: WinIdChange 1600008 handle QWidgetWindow(0x560bbff1c270, name="LXQtPanel panel1Window") QScreen(0x560bbfc7c1c0, name="Virtual1")
+2020-11-18 20:23:54.490 (0x7ffda6a14330) Debug: Systray started
+2020-11-18 20:23:55.392 (0x7ffccba620d0) Debug: Starting idlenesswatcher
+2020-11-18 20:23:56.316 (0x7ffda6a14330) Debug: Unknown property margin-button
+2020-11-18 20:23:56.317 (0x7ffda6a14330) Debug: Unknown property margin-button
+2020-11-18 20:23:56.317 (0x7ffda6a14330) Debug: Unknown property margin-button
+2020-11-18 20:23:58.826 (0x7ffcb4598a30) Warning: Icon theme "elementary" not found.
+2020-11-18 20:35:20.932 (0x7ffda6a14330) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
+2020-11-18 22:26:02.230 (0x7ffda6a14330) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
+2020-11-19 11:32:04.162 (0x7ffe8aa195b0) Debug: New PolkitAgentListener  0x561808af8400
+2020-11-19 11:32:04.415 (0x7ffe8aa195b0) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffe8aa195c0) for  0x561808af8400
+2020-11-19 11:32:06.835 (0x7ffef7d21120) Warning: Icon theme "elementary" not found.
+2020-11-19 11:32:08.251 (0x7ffea5b65170) Warning: Icon theme "elementary" not found.
+2020-11-19 11:32:08.267 (0x7ffea5b65170) Debug: systemd: "CanHibernate" = "na"
+2020-11-19 11:32:08.267 (0x7ffea5b65170) Warning: dbusGetProperty: QDBusInterface is invalid "org.freedesktop.UPower" "/org/freedesktop/UPower" "org.freedesktop.DBus.Properties" "CanHibernate"
+2020-11-19 11:32:08.268 (0x7ffea5b65170) Warning: dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+2020-11-19 11:32:08.274 (0x7ffea5b65170) Debug: systemd: "CanSuspend" = "yes"
+2020-11-19 11:32:08.933 (0x7ffdb7dc9380) Debug: systemd: "CanReboot" = "yes"
+2020-11-19 11:32:09.279 (0x7ffdb7dc9380) Debug: systemd: "CanPowerOff" = "yes"
+2020-11-19 11:32:11.657 (0x7ffef7d21120) Debug: ()
+2020-11-19 11:32:11.835 (0x7ffef7d21120) Debug: WinIdChange 1200008 handle QWidgetWindow(0x55935fd73090, name="LXQtPanel panel1Window") QScreen(0x55935facf1c0, name="Virtual1")
+2020-11-19 11:32:11.884 (0x7ffef7d21120) Debug: Systray started
+2020-11-19 11:32:12.648 (0x7ffe4cfef720) Debug: Starting idlenesswatcher
+2020-11-19 11:32:13.882 (0x7ffef7d21120) Debug: Unknown property margin-button
+2020-11-19 11:32:13.882 (0x7ffef7d21120) Debug: Unknown property margin-button
+2020-11-19 11:32:13.882 (0x7ffef7d21120) Debug: Unknown property margin-button
+2020-11-19 11:32:14.999 (0x7ffc5c214e50) Warning: Icon theme "elementary" not found.
+2020-11-19 15:13:40.819 (0x7ffdb7dc9380) Warning: "Session 'session', new input device '/dev/input/js0', keyboard setting will be (optionaly) reloaded..."
+2020-11-19 15:13:40.827 (0x7ffdb7dc9380) Warning: "Session 'session', new input device '/dev/input/mouse1', keyboard setting will be (optionaly) reloaded..."
+2020-11-19 15:13:40.945 (0x7ffdb7dc9380) Warning: "Session 'session', new input device '/dev/input/event5', keyboard setting will be (optionaly) reloaded..."
+2020-11-19 15:24:20.607 (0x7ffef7d21120) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
+2020-11-19 15:24:20.831 (0x7ffef7d21120) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
+2020-11-19 15:28:05.795 (0x7ffef7d21120) Debug: Service "org.freedesktop.StatusNotifierItem-1562-1" unregistered
+2020-11-19 15:28:05.814 (0x7ffef7d21120) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 3691, resource id: 35651592, major code: 18 (ChangeProperty), minor code: 0
+2020-11-19 15:28:29.714 (0x7ffef7d21120) Debug: Service "org.freedesktop.StatusNotifierItem-1558-1" unregistered
+2020-11-19 16:17:41.679 (0x7ffef7d21120) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
+2020-11-19 16:17:51.943 (0x7ffef7d21120) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
+2020-11-19 16:18:01.463 (0x7ffef7d21120) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
+2020-11-19 19:08:57.523 (0x7ffef7d21120) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
+2020-11-19 19:12:29.264 (0x7ffef7d21120) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
+2020-11-19 19:14:25.022 (0x7ffef7d21120) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
+2020-11-19 19:44:34.675 (0x7ffef7d21120) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
+2020-11-19 20:07:43.352 (0x7ffef7d21120) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
+2020-11-19 20:10:45.361 (0x7ffef7d21120) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
+2020-11-19 20:10:45.585 (0x7ffef7d21120) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
+2020-11-19 20:43:21.840 (0x7ffef7d21120) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
+2020-11-19 20:53:03.220 (0x7ffef7d21120) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
+2020-12-02 00:37:10.092 (0x7ffdb52e0140) Debug: New PolkitAgentListener  0x5596d4581600
+2020-12-02 00:37:10.115 (0x7ffdb52e0140) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffdb52e0150) for  0x5596d4581600
+2020-12-02 00:37:11.527 (0x7ffdf09aa830) Warning: Icon theme "elementary" not found.
+2020-12-02 00:37:16.497 (0x7ffcd9194e60) Warning: Icon theme "elementary" not found.
+2020-12-02 00:37:16.528 (0x7ffcd9194e60) Debug: systemd: "CanHibernate" = "na"
+2020-12-02 00:37:16.528 (0x7ffcd9194e60) Warning: dbusGetProperty: QDBusInterface is invalid "org.freedesktop.UPower" "/org/freedesktop/UPower" "org.freedesktop.DBus.Properties" "CanHibernate"
+2020-12-02 00:37:16.531 (0x7ffcd9194e60) Warning: dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+2020-12-02 00:37:16.537 (0x7ffcd9194e60) Debug: systemd: "CanSuspend" = "yes"
+2020-12-02 00:37:16.861 (0x7ffc6655fd90) Debug: systemd: "CanReboot" = "yes"
+2020-12-02 00:37:21.928 (0x7ffc6655fd90) Debug: systemd: "CanPowerOff" = "yes"
+2020-12-02 00:37:25.522 (0x7ffdf09aa830) Debug: ()
+2020-12-02 00:37:25.608 (0x7ffdf09aa830) Debug: WinIdChange 1200008 handle QWidgetWindow(0x564db21274d0, name="LXQtPanel panel1Window") QScreen(0x564db1e841c0, name="Virtual1")
+2020-12-02 00:37:25.701 (0x7ffdf09aa830) Debug: Systray started
+2020-12-02 00:37:29.043 (0x7ffdf09aa830) Debug: Unknown property margin-button
+2020-12-02 00:37:29.043 (0x7ffdf09aa830) Debug: Unknown property margin-button
+2020-12-02 00:37:29.044 (0x7ffdf09aa830) Debug: Unknown property margin-button
+2020-12-02 00:37:30.514 (0x7fff8df631c0) Warning: Icon theme "elementary" not found.
+2020-12-02 00:37:31.018 (0x7ffdf09aa830) Debug: Unknown property margin-button
+2020-12-02 00:37:31.019 (0x7ffdf09aa830) Debug: Unknown property margin-button
+2020-12-02 00:37:31.019 (0x7ffdf09aa830) Debug: Unknown property margin-button
+2020-12-02 00:37:35.161 (0x7ffe41301c50) Debug: Starting idlenesswatcher
+2020-12-02 01:01:19.955 (0x7ffdf09aa830) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 994, resource id: 25165830, major code: 18 (ChangeProperty), minor code: 0
+2020-12-02 01:42:02.754 (0x7ffdf09aa830) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
+2020-12-02 01:42:05.512 (0x7ffdf09aa830) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
+2020-12-02 01:42:05.720 (0x7ffdf09aa830) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
+2020-12-02 01:42:06.952 (0x7ffdf09aa830) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
+2020-12-02 01:42:07.616 (0x7ffdf09aa830) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
