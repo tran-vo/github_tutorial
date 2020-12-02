@@ -146,3 +146,4 @@
 2020-12-02 09:26:25.242 (0x7fffc1519460) Debug: Unknown property margin-button
 2020-12-02 09:26:26.270 (0x7ffdfea79f30) Warning: Icon theme "elementary" not found.
 2020-12-02 09:32:54.542 (0x7fffc1519460) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 891, resource id: 31457286, major code: 18 (ChangeProperty), minor code: 0
+2020-12-02 10:08:37.831 (0x7fffc1519460) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"

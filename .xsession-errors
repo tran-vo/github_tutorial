@@ -764,3 +764,4 @@ default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
 loadAllColorSchemes
 Shell program: "/bin/bash"
 ("/bin/bash")
+(0x7fffc1519460) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
