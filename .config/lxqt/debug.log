@@ -126,3 +126,23 @@
 2020-12-02 01:42:05.720 (0x7ffdf09aa830) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
 2020-12-02 01:42:06.952 (0x7ffdf09aa830) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
 2020-12-02 01:42:07.616 (0x7ffdf09aa830) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
+2020-12-02 02:25:43.571 (0x7ffdf09aa830) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
+2020-12-02 09:26:13.634 (0x7ffcf2c67f40) Debug: New PolkitAgentListener  0x55e0c148da00
+2020-12-02 09:26:13.668 (0x7ffcf2c67f40) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffcf2c67f50) for  0x55e0c148da00
+2020-12-02 09:26:16.267 (0x7fffc1519460) Warning: Icon theme "elementary" not found.
+2020-12-02 09:26:19.133 (0x7ffc2caf1c90) Warning: Icon theme "elementary" not found.
+2020-12-02 09:26:19.151 (0x7ffc2caf1c90) Debug: systemd: "CanHibernate" = "na"
+2020-12-02 09:26:19.151 (0x7ffc2caf1c90) Warning: dbusGetProperty: QDBusInterface is invalid "org.freedesktop.UPower" "/org/freedesktop/UPower" "org.freedesktop.DBus.Properties" "CanHibernate"
+2020-12-02 09:26:19.152 (0x7ffc2caf1c90) Warning: dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+2020-12-02 09:26:19.159 (0x7ffc2caf1c90) Debug: systemd: "CanSuspend" = "yes"
+2020-12-02 09:26:19.895 (0x7ffe8653d1e0) Debug: systemd: "CanReboot" = "yes"
+2020-12-02 09:26:20.053 (0x7ffe8653d1e0) Debug: systemd: "CanPowerOff" = "yes"
+2020-12-02 09:26:22.696 (0x7fffc1519460) Debug: ()
+2020-12-02 09:26:22.825 (0x7fffc1519460) Debug: WinIdChange 1200008 handle QWidgetWindow(0x55c77f21f870, name="LXQtPanel panel1Window") QScreen(0x55c77ef7f1c0, name="Virtual1")
+2020-12-02 09:26:22.909 (0x7fffc1519460) Debug: Systray started
+2020-12-02 09:26:23.737 (0x7ffccd0ced70) Debug: Starting idlenesswatcher
+2020-12-02 09:26:25.242 (0x7fffc1519460) Debug: Unknown property margin-button
+2020-12-02 09:26:25.242 (0x7fffc1519460) Debug: Unknown property margin-button
+2020-12-02 09:26:25.242 (0x7fffc1519460) Debug: Unknown property margin-button
+2020-12-02 09:26:26.270 (0x7ffdfea79f30) Warning: Icon theme "elementary" not found.
+2020-12-02 09:32:54.542 (0x7fffc1519460) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 891, resource id: 31457286, major code: 18 (ChangeProperty), minor code: 0

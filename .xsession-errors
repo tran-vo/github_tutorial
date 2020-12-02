@@ -677,3 +677,90 @@ Icon theme "elementary" not found.
 (0x7ffdf09aa830) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
 Icon theme "elementary" not found.
 Icon theme "elementary" not found.
+(0x7ffdf09aa830) Debug: execAction "/usr/share/applications/pcmanfm-qt.desktop"
+Icon theme "elementary" not found.
+Icon theme "elementary" not found.
+Xsession: X session started for tran at Thứ tư, 02 Tháng 12 năm 2020 09:26:10 +07
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/tran/.Xauthority
+localuser:tran being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-Lubuntu:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session1
+dbus-update-activation-environment: setting LC_ADDRESS=vi_VN
+dbus-update-activation-environment: setting LC_NAME=vi_VN
+dbus-update-activation-environment: setting DESKTOP_SESSION=Lubuntu
+dbus-update-activation-environment: setting LC_MONETARY=vi_VN
+dbus-update-activation-environment: setting PWD=/home/tran
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=
+dbus-update-activation-environment: setting LOGNAME=tran
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/tran/.Xauthority
+dbus-update-activation-environment: setting HOME=/home/tran
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LC_PAPER=vi_VN
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting LC_IDENTIFICATION=vi_VN
+dbus-update-activation-environment: setting USER=tran
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LC_TELEPHONE=vi_VN
+dbus-update-activation-environment: setting LC_MEASUREMENT=vi_VN
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting LC_TIME=vi_VN
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/Lubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting LC_NUMERIC=vi_VN
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+!: 1: Syntax error: Unterminated quoted string
+(0x7ffcf2c67f40) Debug: New PolkitAgentListener  0x55e0c148da00
+(0x7ffcf2c67f40) Debug: Adding new listener  PolkitQt1::Agent::Listener(0x7ffcf2c67f50) for  0x55e0c148da00
+isPrimaryInstance
+[Notice] Started
+(0x7fffc1519460) Warning: Icon theme "elementary" not found.
+size of cached file QSize(800, 600) , requiredSize: QSize(800, 600)
+origin "/usr/share/lubuntu/wallpapers/lubuntu-default-wallpaper.png"
+(0x7ffc2caf1c90) Warning: Icon theme "elementary" not found.
+(0x7ffc2caf1c90) Debug: systemd: "CanHibernate" = "na"
+(0x7ffc2caf1c90) Warning: dbusGetProperty: QDBusInterface is invalid "org.freedesktop.UPower" "/org/freedesktop/UPower" "org.freedesktop.DBus.Properties" "CanHibernate"
+(0x7ffc2caf1c90) Warning: dbusCall: QDBusInterface is invalid "org.freedesktop.ConsoleKit" "/org/freedesktop/ConsoleKit/Manager" "org.freedesktop.ConsoleKit.Manager" "CanHibernate"
+(0x7ffc2caf1c90) Debug: systemd: "CanSuspend" = "yes"
+(0x7ffe8653d1e0) Debug: systemd: "CanReboot" = "yes"
+(0x7ffe8653d1e0) Debug: systemd: "CanPowerOff" = "yes"
+(0x7fffc1519460) Debug: ()
+(0x7fffc1519460) Debug: WinIdChange 1200008 handle QWidgetWindow(0x55c77f21f870, name="LXQtPanel panel1Window") QScreen(0x55c77ef7f1c0, name="Virtual1")
+(0x7fffc1519460) Debug: Systray started
+Translator is not loaded "qlipper_en_US" "/usr/share/qlipper/translations"
+(0x7ffccd0ced70) Debug: Starting idlenesswatcher
+Icon theme "elementary" not found.
+Icon theme "elementary" not found.
+(0x7fffc1519460) Debug: Unknown property margin-button
+(0x7fffc1519460) Debug: Unknown property margin-button
+(0x7fffc1519460) Debug: Unknown property margin-button
+(0x7ffdfea79f30) Warning: Icon theme "elementary" not found.
+Icon theme "elementary" not found.
+(0x7fffc1519460) Warning: QXcbConnection: XCB error: 3 (BadWindow), sequence: 891, resource id: 31457286, major code: 18 (ChangeProperty), minor code: 0
+Icon theme "elementary" not found.
+Properties constructor called
+TRANSLATIONS_DIR: Loading translation file "qterminal_en_US.qm" from dir /usr/share/qterminal/translations
+load success: false
+Icon theme "elementary" not found.
+QDir::exists: Empty or null file name
+Canot open file "/home/tran/.config/qterminal.org/qterminal_bookmarks.xml"
+Trying to load translation file from dir "/usr/share/Lubuntu"
+Trying to load translation file from dir "/usr/local/share"
+Trying to load translation file from dir "/usr/share"
+Trying to load translation file from dir "/var/lib/snapd/desktop"
+Trying to load translation file from dir "/usr/share/qtermwidget5/translations"
+default KB_LAYOUT_DIR:  "/usr/share/qtermwidget5/kb-layouts"
+loadAllColorSchemes
+Shell program: "/bin/bash"
+("/bin/bash")
